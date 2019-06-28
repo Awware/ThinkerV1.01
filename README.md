@@ -5,7 +5,7 @@
 
 # Dependencies
 * python-chess
-* pystockfish
+* [pystockfish](https://github.com/Awware/pystockfish)
 * pypiwin32
 * selenium
 * keyboard
