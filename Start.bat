@@ -1,2 +1,2 @@
-python awware_lichess.py
+python thinker.py
 pause
